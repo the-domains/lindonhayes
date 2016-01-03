@@ -1,0 +1,28 @@
+name: LindonHayes
+favicon: null
+layout_spectrum: 0.6825685310177505
+typography_spectrum: 0.47245940286666155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.41325603309087455
+  lightness: 0.5181384121533483
+  saturation: 0.8579561372753233
+  rhythmicContrast: 0.5732155058067292
+purpose: []
